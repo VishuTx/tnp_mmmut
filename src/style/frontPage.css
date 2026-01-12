@@ -47,7 +47,7 @@ h4 .img {
   height: fit-content;
   margin: 1.2rem auto;
   justify-items: center;
-  background: #f5f9ff;
+  background: #f3f6fa;  
   border: 1px solid #212121;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
     rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
@@ -55,8 +55,8 @@ h4 .img {
 }
 
 .gallery-style .react-photo-album--photo {
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
-    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
+  box-shadow: rgba(67, 60, 61, 0.3) 0px 1px 2px 0px,
+    rgba(67, 60, 61, 0.15) 0px 1px 3px 1px !important;
   border-radius: 6px;
   align-items: center;
   justify-content: center;
@@ -123,7 +123,7 @@ h4 .img {
 }
 
 .popup-overlay {
-  background: rgba(0, 0, 0, 0.5) !important;
+  background: rgba(40, 30, 30, 0.5) !important;
 }
 [data-popup="tooltip"].popup-overlay {
   background: transparent !important;
@@ -139,7 +139,7 @@ h4 .img {
   line-height: 24 px;
   text-align: center;
 
-  color: #457b9d;
+  color: #9d4549;
 }
 
 .d-flex {

@@ -43,12 +43,14 @@ const FrontPage = () => {
           Organizations conducting the drive.
         </p>
 
-        {/* <h2 className="about">Announcements</h2>
+        <h2 className="about">Announcements</h2>
         <div className="border-bottom" id="aboutAnn"></div>
 
+
+{/* not in actual  */}
         <div className="row col-12 mt-2">
-          <p className= about-text">Coming soon!</p>
-        </div> */}
+          <p className= "about-text">Coming soon!</p>
+        </div>
 
         <QuickLinks />
 

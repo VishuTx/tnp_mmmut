@@ -22,6 +22,7 @@ import ErrorPage from "./components/utils/errorPage";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 import ScrollToTop from "./components/utils/ScrollToTop";
+import TestPage from "./components/TestPage/TestPage";
 
 const Routing = () => {
   return (
@@ -45,7 +46,7 @@ const Routing = () => {
         <Route path="/studentCoordinators" element={<StudentCoordinators />} />
         <Route path="/alumni" element={<Alumni />} />
         <Route path="/lifeatmmmut" element={<LifeAtMMMUT />} />
-
+        <Route path="/test" element={<TestPage />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </>

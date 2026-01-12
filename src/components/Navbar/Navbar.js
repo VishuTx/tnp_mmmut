@@ -2,7 +2,7 @@ import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { motion } from "framer-motion";
 
-const Navbar = () => {
+const  Navbar = () => {
   const [isNavExpanded, setIsNavExpanded] = useState(false);
 
   return (
@@ -32,7 +32,7 @@ const Navbar = () => {
           </li>
 
           <motion.li>
-            About@MMMUT <i className="fa fa-caret-down"></i>
+            About Us <i className="fa fa-caret-down"></i>
             <div className="dropdown_menu mx-auto navwidth3">
               <motion.ul>
                 <motion.li id="aboutItem">
