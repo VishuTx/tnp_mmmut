@@ -33,8 +33,7 @@ const TestPage = () => {
         <div className="fp-hero-content">
           <h1>Training & Placement Cell</h1>
           <p>
-            Facilitating career opportunities through structured training and
-            campus recruitment
+            Whatever this is its in the test phase don't take seriously.
           </p>
         </div>
       </section>
