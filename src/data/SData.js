@@ -2,7 +2,7 @@ const SData = [
   {
     id: 1,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616690/WhatsApp_Image_2024-07-10_at_18.17.19_zi15hy.jpg",
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616690/WhatsApp_Image_2024-07-10_at_18.17.19_zi15hy.jpg",
     name: "Skand Tripathi",
     post: "Secretary",
     branch: "ECE",
@@ -28,7 +28,7 @@ const SData = [
   {
     id: 3,
     image:
-    "https://res.cloudinary.com/dkddubkcn/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1686848232/1681981391663_-_Chaitanya_Dubey_wzegfk.jpg",
+      "https://res.cloudinary.com/dkddubkcn/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1686848232/1681981391663_-_Chaitanya_Dubey_wzegfk.jpg",
     name: "Chaitanya Prakash Dubey",
     post: "Joint Secretary",
     branch: "EE",
@@ -67,7 +67,7 @@ const SData = [
   {
     id: 6,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605280/PXL_20231004_123639074_urrelj.jpg",
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605280/PXL_20231004_123639074_urrelj.jpg",
     name: "Priyansh Agarwal",
     post: "Joint Secretary",
     branch: "EE",
@@ -80,7 +80,7 @@ const SData = [
   {
     id: 7,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616702/WhatsApp_Image_2024-07-10_at_18.31.20_1_r35vsi.jpg",
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616702/WhatsApp_Image_2024-07-10_at_18.31.20_1_r35vsi.jpg",
     name: "Satvik Tripathi",
     post: "Joint Secretary",
     branch: "ECE",
@@ -93,7 +93,7 @@ const SData = [
   {
     id: 8,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605670/WhatsApp_Image_2024-07-10_at_09.55.10_1_vh8nci.jpg",
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605670/WhatsApp_Image_2024-07-10_at_09.55.10_1_vh8nci.jpg",
     name: "Parlakshit Tyagi",
     post: "T&P Final Year",
     branch: "CSE",
@@ -106,27 +106,27 @@ const SData = [
   {
     id: 9,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720591528/Harshit_Singh_fpjdnk.png",
-  name: "Harshit Singh",
-  post: "T&P Final Year",
-  branch: "CSE",
-  year: "Final",
-  phone: "7398432919",
-  fb: "",
-  in: "https://www.linkedin.com/in/harshit-s-2b7319228/",
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720591528/Harshit_Singh_fpjdnk.png",
+    name: "Harshit Singh",
+    post: "T&P Final Year",
+    branch: "CSE",
+    year: "Final",
+    phone: "7398432919",
+    fb: "",
+    in: "https://www.linkedin.com/in/harshit-s-2b7319228/",
   },
 
   {
     id: 10,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720591248/WhatsApp_Image_2024-07-10_at_09.58.01_r2j7rg.jpg",
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720591248/WhatsApp_Image_2024-07-10_at_09.58.01_r2j7rg.jpg",
     name: "Utkarsh",
-  post: "T&P Final Year",
-  branch: "CSE",
-  year: "Final",
-  phone: "7275682570",
-  fb: "",
-  in: "https://www.linkedin.com/in/utkarsh-kumar-saini-127a5022a/",
+    post: "T&P Final Year",
+    branch: "CSE",
+    year: "Final",
+    phone: "7275682570",
+    fb: "",
+    in: "https://www.linkedin.com/in/utkarsh-kumar-saini-127a5022a/",
   },
 
   {
@@ -233,7 +233,8 @@ const SData = [
   },
   {
     id: 19,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1721017462/WhatsApp_Image_2024-07-12_at_17.53.09_hotved.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1721017462/WhatsApp_Image_2024-07-12_at_17.53.09_hotved.jpg",
     name: "Mridani Tripathi",
     post: "T&P Final Year",
     branch: "B.Pharma",
@@ -244,7 +245,8 @@ const SData = [
   },
   {
     id: 20,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584421/Snapchat-569216250_-_Anjali_Shekhar_zi84a1.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584421/Snapchat-569216250_-_Anjali_Shekhar_zi84a1.jpg",
     name: "Anjali Shekhar",
     post: "T&P Third Year",
     branch: "CSE",
@@ -256,7 +258,8 @@ const SData = [
 
   {
     id: 21,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720617324/WhatsApp_Image_2024-07-10_at_16.17.39_da6ffv.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720617324/WhatsApp_Image_2024-07-10_at_16.17.39_da6ffv.jpg",
     name: "Nidhi Paswan",
     post: "T&P Third Year",
     branch: "CSE",
@@ -268,7 +271,8 @@ const SData = [
 
   {
     id: 22,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582882/IMG_0653_copy_-_Priyanshu_Tiwari_m0ohnn.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582882/IMG_0653_copy_-_Priyanshu_Tiwari_m0ohnn.jpg",
     name: "Priyanshu Tiwari",
     post: "T&P Third Year",
     branch: "CSE",
@@ -280,7 +284,8 @@ const SData = [
 
   {
     id: 23,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582827/20231022_172428_-_Nandita_Singh_wyyt8o.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582827/20231022_172428_-_Nandita_Singh_wyyt8o.jpg",
     name: "Adamya Singh",
     post: "T&P Third Year",
     branch: "IT",
@@ -292,7 +297,8 @@ const SData = [
 
   {
     id: 24,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582887/Harsh_pic_-_Harsh_Upadhyay_mpgmxw.png",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582887/Harsh_pic_-_Harsh_Upadhyay_mpgmxw.png",
     name: "Harsh Upadhyay",
     post: "T&P Third Year",
     branch: "ECE",
@@ -304,7 +310,8 @@ const SData = [
 
   {
     id: 25,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583877/IMG-20240513-WA0023_-_Pradeep_Tiwari_v9yxyu.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583877/IMG-20240513-WA0023_-_Pradeep_Tiwari_v9yxyu.jpg",
     name: "Pradeep Tiwari",
     post: "T&P Third Year",
     branch: "ECE",
@@ -315,7 +322,8 @@ const SData = [
   },
   {
     id: 26,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616973/WhatsApp_Image_2024-07-10_at_16.29.14_gq7idl.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616973/WhatsApp_Image_2024-07-10_at_16.29.14_gq7idl.jpg",
     name: "Prashant Kushwaha",
     post: "T&P Third Year",
     branch: "ECE",
@@ -324,10 +332,11 @@ const SData = [
     fb: "",
     in: "https://www.linkedin.com/in/prashantkush8854",
   },
-  
+
   {
     id: 27,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584605/TNP_ID_Card_photo_-_anonymous_w2hv2l.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584605/TNP_ID_Card_photo_-_anonymous_w2hv2l.jpg",
     name: "Rajat Singh ",
     post: "T&P Third Year",
     branch: "ECE",
@@ -339,7 +348,8 @@ const SData = [
 
   {
     id: 28,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584552/Shrish_Narayan_omgbdf.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584552/Shrish_Narayan_omgbdf.jpg",
     name: "Shrish Narayan",
     post: "T&P Third Year",
     branch: "ECE",
@@ -351,7 +361,8 @@ const SData = [
 
   {
     id: 29,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605268/WhatsApp_Image_2024-07-10_at_10.08.55_mufkgh.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605268/WhatsApp_Image_2024-07-10_at_10.08.55_mufkgh.jpg",
     name: "Abhiraj Gupta",
     post: "T&P Third Year",
     branch: "EE",
@@ -363,7 +374,8 @@ const SData = [
 
   {
     id: 30,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720603377/WhatsApp_Image_2024-07-10_at_14.46.51_o7wk0y.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720603377/WhatsApp_Image_2024-07-10_at_14.46.51_o7wk0y.jpg",
     name: "Divyansh Maurya",
     post: "T&P Third Year",
     branch: "EE",
@@ -388,7 +400,8 @@ const SData = [
 
   {
     id: 32,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583603/IMG_0656_copy_-_Shivansh_Tiwari_c8djga.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583603/IMG_0656_copy_-_Shivansh_Tiwari_c8djga.jpg",
     name: "Shivansh Tiwari ",
     post: "T&P Third Year",
     branch: "EE",
@@ -400,7 +413,8 @@ const SData = [
 
   {
     id: 33,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583922/IMG-20240514-WA0002_-_Aryansh_Bachchan_smczq4.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583922/IMG-20240514-WA0002_-_Aryansh_Bachchan_smczq4.jpg",
     name: "Aryansh Bachhan",
     post: "T&P Third Year",
     branch: "ME",
@@ -412,7 +426,8 @@ const SData = [
 
   {
     id: 34,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583855/IMG_20240512_104600_755_-_Sandesh_Chauhan_bhodco.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583855/IMG_20240512_104600_755_-_Sandesh_Chauhan_bhodco.jpg",
     name: "Sandesh Singh",
     post: "T&P Third Year",
     branch: "ME",
@@ -421,10 +436,11 @@ const SData = [
     fb: "",
     in: "https://www.linkedin.com/in/sandesh-singh-1472ab271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
-  
+
   {
     id: 35,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720708401/IMG_20240711_195939_vj68cf.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720708401/IMG_20240711_195939_vj68cf.jpg",
     name: "Aditi Upadhyay",
     post: "T&P Third Year",
     branch: "BBA",
@@ -433,10 +449,11 @@ const SData = [
     fb: "",
     in: "https://www.linkedin.com/in/aditi-upadhyay-016312270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
-  
+
   {
     id: 36,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582893/GridArt_20240513_223718462_-_Tanisha_Agrahari_y3gcjr.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582893/GridArt_20240513_223718462_-_Tanisha_Agrahari_y3gcjr.jpg",
     name: "Tanisha Agrahari",
     post: "T&P Third Year",
     branch: "BBA",
@@ -445,10 +462,11 @@ const SData = [
     fb: "",
     in: "https://www.linkedin.com/in/tanisha-agrahari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
-  
+
   {
     id: 37,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720707723/WhatsApp_Image_2024-07-11_at_18.34.35_qiu5dp.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720707723/WhatsApp_Image_2024-07-11_at_18.34.35_qiu5dp.jpg",
     name: "Akshara Srivastava",
     post: "T&P Third Year",
     branch: "B.Pharma",
@@ -456,11 +474,12 @@ const SData = [
     phone: "8960082005",
     fb: "",
     in: "https://www.linkedin.com/in/akshara-srivastava-929120294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },  
-  
+  },
+
   {
     id: 38,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583929/passportphoto_-_Tanmay_Mishra_swfmyu.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583929/passportphoto_-_Tanmay_Mishra_swfmyu.jpg",
     name: "Tanmay Mishra",
     post: "T&P Third Year",
     branch: "MCA",
@@ -468,11 +487,12 @@ const SData = [
     phone: "8563960060",
     fb: "",
     in: "http://www.linkedin.com/in/tanmay-mishra-0a10171b2",
-  },  
-  
+  },
+
   {
     id: 39,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583513/img.tejash_-_Tejash_Shukla_k3k12w.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583513/img.tejash_-_Tejash_Shukla_k3k12w.jpg",
     name: "Tejas Shukla",
     post: "T&P Third Year",
     branch: "MCA",
@@ -480,11 +500,12 @@ const SData = [
     phone: "6387969277",
     fb: "",
     in: "https://www.linkedin.com/in/tejash-shukla-3b6953249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },  
-  
+  },
+
   {
     id: 40,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583856/IMG_20240513_220531_918_-_ANKIT_VISHWAKARMA_cxev04.jpg",
+    image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583856/IMG_20240513_220531_918_-_ANKIT_VISHWAKARMA_cxev04.jpg",
     name: "Ankit Vishwakarma",
     post: "T&P Third Year",
     branch: "MBA",
@@ -492,6 +513,17 @@ const SData = [
     phone: "9565755796",
     fb: "",
     in: "https://www.linkedin.com/in/ankit-vishwakarma-881ba9218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  {
+    id: 41,
+    image: "",
+    name: "Vishu Srivastava",
+    post: "T&P Third Year",
+    branch: "ECE-IOT",
+    year: "Third",
+    phone: "9984066278",
+    fb: "",
+    in: "https://www.linkedin.com/in/vishutx/",
   },
 ];
 
