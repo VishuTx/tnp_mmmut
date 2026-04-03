@@ -179,44 +179,44 @@ const SData = [
     in: "https://www.linkedin.com/in/divyansh-maurya-falcon?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
 
-  {
-    id: 12,
-    image:
-      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583943/ld_1_-_Divyansh_Ojha_r9w0vh.jpg",
-    name: "Divyansh Ojha",
-    post: "T&P Final Year",
-    branch: "EE",
-    year: "Final",
-    phone: "8707611688",
-    fb: "",
-    in: "https://www.linkedin.com/in/divyansh-ojha-6b9b27257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
+  // {
+  //   id: 12,
+  //   image:
+  //     "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583943/ld_1_-_Divyansh_Ojha_r9w0vh.jpg",
+  //   name: "Divyansh Ojha",
+  //   post: "T&P Final Year",
+  //   branch: "EE",
+  //   year: "Final",
+  //   phone: "8707611688",
+  //   fb: "",
+  //   in: "https://www.linkedin.com/in/divyansh-ojha-6b9b27257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  // },
 
-  {
-    id: 16,
-    image:
-      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720708401/IMG_20240711_195939_vj68cf.jpg",
-    name: "Aditi Upadhyay",
-    post: "T&P Final Year",
-    branch: "BBA",
-    year: "Final",
-    phone: "7905174604",
-    fb: "",
-    in: "https://www.linkedin.com/in/aditi-upadhyay-016312270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
+  // {
+  //   id: 16,
+  //   image:
+  //     "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720708401/IMG_20240711_195939_vj68cf.jpg",
+  //   name: "Aditi Upadhyay",
+  //   post: "T&P Final Year",
+  //   branch: "BBA",
+  //   year: "Final",
+  //   phone: "7905174604",
+  //   fb: "",
+  //   in: "https://www.linkedin.com/in/aditi-upadhyay-016312270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  // },
 
-  {
-    id: 17,
-    image:
-      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582893/GridArt_20240513_223718462_-_Tanisha_Agrahari_y3gcjr.jpg",
-    name: "Tanisha Agrahari",
-    post: "T&P Final Year",
-    branch: "BBA",
-    year: "Final",
-    phone: "6307134514",
-    fb: "",
-    in: "https://www.linkedin.com/in/tanisha-agrahari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
+  // {
+  //   id: 17,
+  //   image:
+  //     "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582893/GridArt_20240513_223718462_-_Tanisha_Agrahari_y3gcjr.jpg",
+  //   name: "Tanisha Agrahari",
+  //   post: "T&P Final Year",
+  //   branch: "BBA",
+  //   year: "Final",
+  //   phone: "6307134514",
+  //   fb: "",
+  //   in: "https://www.linkedin.com/in/tanisha-agrahari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  // },
 
   {
     id: 18,
@@ -255,23 +255,23 @@ const SData = [
     fb: "",
     in: "https://www.linkedin.com/in/adarsh-srivastava-b00381282/",
   },
-  {
-    id: 21,
-    image:
-      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583856/IMG_20240513_220531_918_-_ANKIT_VISHWAKARMA_cxev04.jpg",
-    name: "Anushka Singh",
-    post: "T&P Third Year",
-    branch: "CSE",
-    year: "Third",
-    phone: "9565755796",
-    fb: "",
-    in: "",
-  },
+  // {
+  //   id: 21,
+  //   image:
+  //     "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583856/IMG_20240513_220531_918_-_ANKIT_VISHWAKARMA_cxev04.jpg",
+  //   name: "Anushka Singh",
+  //   post: "T&P Third Year",
+  //   branch: "CSE",
+  //   year: "Third",
+  //   phone: "9565755796",
+  //   fb: "",
+  //   in: "",
+  // },
   {
     id: 22,
     image:
       "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583856/IMG_20240513_220531_918_-_ANKIT_VISHWAKARMA_cxev04.jpg",
-    name: "Aditya Upadhyay",
+    name: "Aaditya Upadhyay",
     post: "T&P Third Year",
     branch: "IT",
     year: "Third",
