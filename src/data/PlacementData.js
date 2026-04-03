@@ -54,5 +54,19 @@ export const PlacementData = [
     Offers: "860",
     AveragePackage: "6",
     HighestPackage: "42",
-  }
+  },
+  {
+    id: 9,
+    Year: "2024 - 25",
+    Offers: "1160",
+    AveragePackage: "7",
+    HighestPackage: "59",
+  },
+  // {
+  //   id: 10,
+  //   Year: "2025 - 26",
+  //   Offers: "800",
+  //   AveragePackage: "7",
+  //   HighestPackage: "45",
+  // },
 ];
