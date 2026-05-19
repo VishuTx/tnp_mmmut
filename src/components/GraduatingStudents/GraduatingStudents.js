@@ -12,9 +12,10 @@ const colorArray = [
   "#FFA500",
   "#4B5D67",
   "#9CB4CC",
-  "#EE81B3",
+  "#EE11B3",
   "#47B5FF",
   "#3BACB6",
+  "#f7faaa",
 ];
 
 const borderColor = "#343a40";
