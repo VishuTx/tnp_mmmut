@@ -1,15 +1,15 @@
 const SData = [
   {
     id: 1,
-    image:
-      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583922/IMG-20240514-WA0002_-_Aryansh_Bachchan_smczq4.jpg",
-    name: "Aryansh Bachhan",
+   image:
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583856/IMG_20240513_220531_918_-_ANKIT_VISHWAKARMA_cxev04.jpg",
+    name: "Chinmay Pandey",
     post: "Secretary",
-    branch: "ME",
+    branch: "ECE",
     year: "Final",
-    phone: "9696478834",
+    phone: "9528551244",
     fb: "",
-    in: "https://www.linkedin.com/in/aryansh-bachchan-548679275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    in: "https://www.linkedin.com/in/ankit-vishwakarma-881ba9218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
 
   {
