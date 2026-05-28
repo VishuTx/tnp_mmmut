@@ -53,7 +53,6 @@ Student Individual .progress-bar {
 #our-team:hover .picture::before {
   height: 100%;
 }
-
 #our-team .picture::after {
   content: "";
   width: 100%;

@@ -2,9 +2,8 @@ import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { motion } from "framer-motion";
 
-const  Navbar = () => {
+const Navbar = () => {
   const [isNavExpanded, setIsNavExpanded] = useState(false);
-
   return (
     <>
       <div className="navbar">
